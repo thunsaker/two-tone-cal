@@ -1,0 +1,44 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "thunsaker",
+    "longName": "Two Tone",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9:A-Z ]",
+                "file": "fonts/munro_20.ttf",
+                "name": "FONT_MUNRO_20",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:A-Z ]",
+                "file": "fonts/munro_59.ttf",
+                "name": "FONT_MUNRO_59",
+                "trackingAdjust": 1,
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:A-Z ]",
+                "file": "fonts/munro_27.ttf",
+                "name": "FONT_MUNRO_27",
+                "trackingAdjust": 1,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Two Tone",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "72e17bfe-df90-4db2-9b5d-4c85dc3cd47c",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
